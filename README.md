@@ -18,3 +18,4 @@ ___
 - Crear entorno virtual con uv gestor de paquetes rápido. https://docs.astral.sh/uv/
 - Libro que se va a utilizar en el curso de machine learning: https://github.com/ageron/handson-mlp Hands-On Machine Learning with Scikit-Learn and PyTorch de Aurélien Géron
 - Este libro ayuda a comprender el aprendizaje profundo: https://deeplearningwithpython.io/chapters/
+- Recursos extra de otros cursos, articulos y libros.
